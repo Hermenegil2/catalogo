@@ -2,3 +2,20 @@ body{
 	background-image: url(../img/fondo.jpg);
 	margin: 10px;
 }
+
+header h1 {
+	margin-top: -10px;
+	color: #fff;
+	text-align: center;
+	background: rgb(252,143,175);
+	border-radius: 8px;
+	box-shadow: 2px 2px 8px 4px rgb(252,143,175);
+}
+
+h3:hover{
+	color: rgb(0,0,0);
+}
+
+.thumbnail{
+	background: rgb(255,174,215);
+}
